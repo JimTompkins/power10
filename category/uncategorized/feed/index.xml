@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Power10</title>
-	<atom:link href="https://jimtompkins.github.io/power10/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://jimtompkins.github.io/power10</link>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>The sport sensor</description>
 	<lastBuildDate>Wed, 27 Apr 2022 17:32:54 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://jimtompkins.github.io/power10/2022/04/27/hello-world/</link>
-					<comments>https://jimtompkins.github.io/power10/2022/04/27/hello-world/#comments</comments>
+		<link>/2022/04/27/hello-world/</link>
+					<comments>/2022/04/27/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[jim]]></dc:creator>
 		<pubDate>Wed, 27 Apr 2022 17:32:54 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://jimtompkins.github.io/power10/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://jimtompkins.github.io/power10/2022/04/27/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/04/27/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

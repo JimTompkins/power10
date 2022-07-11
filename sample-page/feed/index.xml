@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="https://jimtompkins.github.io/power10/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://jimtompkins.github.io/power10</link>
+	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>The sport sensor</description>
 	<lastBuildDate>Fri, 24 Jun 2022 14:52:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
